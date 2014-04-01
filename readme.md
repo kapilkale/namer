@@ -1,0 +1,2 @@
+### Domain name checker
+Create a file called names.txt and paste in whatever words you want to analyze. Run the ruby script with ruby namer.rb and you'll be informed of any available domains in the file.
